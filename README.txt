@@ -16,7 +16,7 @@ bands. So I've written my own. Features include:
  - Depends only on numpy and scipy
  - Inline testing and documentation through doctest and epydoc
 
-Documentation and doctests can be completed on linux by running
+doctests can be run on linux by running
 
 epydoc regression -o regression/html
 
