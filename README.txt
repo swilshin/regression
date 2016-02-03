@@ -1,5 +1,8 @@
 Simon Wilshin's Regression module, swilshin@gmail.com, Jan 2016
 
+This work was completed with support from the Royal Veterinary College, 
+London (www.rvc.ac.uk).
+
 A linear regression package with hypothesis testing, confidence bounds and 
 confidence bands.
 
